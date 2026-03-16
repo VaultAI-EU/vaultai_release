@@ -1,0 +1,29 @@
+{
+  "name": "vaultai-code",
+  "version": "0.2.0",
+  "tag": "vaultai-code-v0.2.0",
+  "date": "2026-03-16",
+  "notes": "Initial public release",
+  "platforms": {
+    "darwin-arm64": {
+      "url": "https://github.com/VaultAI-EU/vaultai_release/releases/download/vaultai-code-v0.2.0/vaultai-code-darwin-arm64.zip",
+      "format": "zip"
+    },
+    "darwin-x64": {
+      "url": "https://github.com/VaultAI-EU/vaultai_release/releases/download/vaultai-code-v0.2.0/vaultai-code-darwin-x64.zip",
+      "format": "zip"
+    },
+    "linux-arm64": {
+      "url": "https://github.com/VaultAI-EU/vaultai_release/releases/download/vaultai-code-v0.2.0/vaultai-code-linux-arm64.tar.gz",
+      "format": "tar.gz"
+    },
+    "linux-x64": {
+      "url": "https://github.com/VaultAI-EU/vaultai_release/releases/download/vaultai-code-v0.2.0/vaultai-code-linux-x64.tar.gz",
+      "format": "tar.gz"
+    },
+    "windows-x64": {
+      "url": "https://github.com/VaultAI-EU/vaultai_release/releases/download/vaultai-code-v0.2.0/vaultai-code-windows-x64.zip",
+      "format": "zip"
+    }
+  }
+}
